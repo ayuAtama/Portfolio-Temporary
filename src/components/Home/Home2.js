@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar.jpg";
 import Tilt from "react-parallax-tilt";
 
 function Home2() {
@@ -13,17 +13,19 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m Wahyu Pratama, a self-taught web developer who’s steadily
+              building skills in HTML, CSS, and JavaScript while learning
+              through online resources. I love exploring different approaches to
+              solve problems, prefer free and open-source tools, and enjoy
+              blending my interest in anime with web development concepts to
+              create simple content as I grow in my journey.
               <br />
               <br />
               I’m proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript, Node.js, Express, and Next.js{" "}
                 </b>
               </i>
               — and I enjoy working across both backend and frontend stacks.
@@ -31,12 +33,9 @@ function Home2() {
               <br />
               My key areas of interest include developing
               <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Blockchain Solutions,{" "}
-                </b>
+                <b className="purple"> Web Applications </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              and exploring new ways to use new technologies.
               <br />
               <br />
               Whenever possible, I love building projects with
