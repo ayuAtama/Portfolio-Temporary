@@ -25,7 +25,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
+              title="DevEvents"
               description="I built DevEvents, a full-stack Next.js application, after noticing the need for a modern platform where developers can easily browse, manage, and book tech events (Situation). I set out to create a complete system with authentication, event management, image uploads, and booking features (Task). Using Next.js, TypeScript, MongoDB, NextAuth, Cloudinary, and Tailwind, I developed secure API routes, a protected dashboard, event CRUD operations, and a smooth UI for users to explore and register for events (Action). As a result, the project became a fully functional, production-ready app that demonstrates my ability to build real-world full-stack applications end-to-end (Result)."
               ghLink="https://github.com/ayuAtama/DevEvents-Fullstack-Next.js-App"
               demoLink="https://devevent.wahyupratama.web.id/"
